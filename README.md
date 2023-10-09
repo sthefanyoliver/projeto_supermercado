@@ -60,7 +60,7 @@ Se tudo tiver sido feito corretamente a tela de login será exibida da seguinte 
    
 8. Coloque seu usuario e senha na tela de login.
 
-Se tudo ocorrer como esperdo voce verá a tela inicial do sistema da seguinte forma:
+Se tudo ocorrer como o esperado você verá a tela inicial do sistema da seguinte forma:
 
 ![image](https://github.com/sthefanyoliver/projeto_supermercado/assets/139503553/7597479a-2495-46d4-8759-65648a3f4b78)
 
